@@ -13,7 +13,7 @@
 
 ***Skills***
 
-`C++` / `Python` / `Docker` / `Bazel` / `CI/CD` with `Jenkins` and `Github Actions`
+`C++` / `Python` / `Docker` / `Bazel` / `CI/CD` with `Jenkins` and `Github Actions` / `Nginx` / `PostgreSQL` / `Grafana`
 
 - 🔭 Currently working at BMW's Autonomous Driving Campus in Germany in a project for Self-Driving Cars between BMW and Stellantis (ex-Fiat Chrysler Automobiles).
 - 🌱 Learning new ways for automated trading.
