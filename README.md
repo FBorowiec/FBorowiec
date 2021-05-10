@@ -11,7 +11,7 @@
 
 ---
 
-***Skills***
+***Ask me about***
 
 `C++` / `Python` / `Docker` / `Bazel` / `CI/CD` with `Jenkins` and `Github Actions` / `Nginx` / `PostgreSQL` / `Grafana`
 
