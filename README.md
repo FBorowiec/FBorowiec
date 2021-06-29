@@ -13,11 +13,15 @@
 
 ***Ask me about***
 
-`C++` / `Python` / `Docker` / `Bazel` / `CI/CD` with `Jenkins` and `Github Actions` / `Nginx` / `PostgreSQL` / `Grafana`
+`C++` / `Python` / `Docker` / `Bazel` / `CI/CD` with `Jenkins` and `Github Actions` / `Nginx` / `PostgreSQL` / `Grafana` / `Vim` and `Neovim`
 
 - 🔭 Currently working at BMW's Autonomous Driving Campus in Germany in a project for Self-Driving Cars between BMW and Stellantis (ex-Fiat Chrysler Automobiles).
 - 🌱 Learning new ways for automated trading.
 - 📫 How to reach me: drop me a message on [LinkedIn](https://www.linkedin.com/in/franekborowiec/)!
+
+***Dotfiles***
+
+[github.com/FBorowiec/dotfiles](https://github.com/FBorowiec/dotfiles)
 
 ---
 
