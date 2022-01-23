@@ -2,18 +2,13 @@
 
 <h3 align="center">I am a Software Engineer for Self-Driving Cars</h3>
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/franekborowiec/"><img height="30" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/FBorowiec/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></a>&nbsp;&nbsp;
-</p>
-
 <!-- <h3 align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQGQNPjTK4zAFQ/profile-displaybackgroundimage-shrink_350_1400/0/1607544429727?e=1616025600&v=beta&t=9COQ59xTWK8XmDgAdfo_LXMJYaTOh0pPhCf6pwm4cE4" /></h3> -->
 
 ---
 
 ***Ask me about***
 
-`C++` / `Python` / `Docker` / `Bazel` / `CI/CD` with `Jenkins` and `Github Actions` / `PostgreSQL` / `Grafana` / `Vim` and `Neovim`
+`C++` / `Python` / `Docker` / `Bazel` / `CI/CD` with `Jenkins` and `Github Actions` / `PostgreSQL` / `Grafana` / `Vim` and `Neovim` / `Tmux` / `Web3` / `Ansible`
 
 - 🔭 Currently working at [BMW's Autonomous Driving Campus](https://www.bmwgroup.com/en/innovation/technologies-and-mobility/autonomes-fahren/campus.html) in Germany in a [project for Self-Driving Cars](https://www.motorauthority.com/news/1112146_fca-joins-bmw-mobileye-and-intel-s-self-driving-car-alliance) between [BMW](https://www.bmwgroup.com/en.html) and [Stellantis](https://www.stellantis.com/en) (ex-Fiat Chrysler Automobiles).
 - 🌱 Learning new ways for automated trading.
@@ -23,6 +18,9 @@
 
 ***Portfolio***
 
+- [Developer productivity](https://github.com/FBorowiec/developer_productivity) - Materials for my developer productivity course
+- [Server setup for dockerized websites](https://github.com/FBorowiec/server_setup_for_websites_using_docker) - In this repository I setup a server with a website and an access to Grafana connected to a postgresql database, all using Docker containers.
+- [Web3](https://github.com/FBorowiec/web3) - Basic contracts created on the ethereum network.
 - [Talking containers](https://github.com/FBorowiec/talking_containers) - Example of using two docker containers communicating through sockets. In this example one container is reciting Shakespeare's Hamlet to another assuming an average reading speed of 150 words per minute.
 - [Scrapers](https://github.com/FBorowiec/scrapers) - Repository where I store my web scrapers.
 - [Design patterns C++](https://github.com/FBorowiec/design_patterns_cpp) - This is my Design Patterns repository containing state of the art examples of practical usage of Design Patterns in modern C++.
@@ -42,6 +40,7 @@
 ***Dotfiles***
 
 [github.com/FBorowiec/dotfiles](https://github.com/FBorowiec/dotfiles)
+[github.com/FBorowiec/ansible](https://github.com/FBorowiec/ansible)
 
 ---
 
