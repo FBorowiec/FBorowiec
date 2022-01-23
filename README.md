@@ -39,8 +39,8 @@
 
 ***Dotfiles***
 
-[github.com/FBorowiec/dotfiles](https://github.com/FBorowiec/dotfiles)
-[github.com/FBorowiec/ansible](https://github.com/FBorowiec/ansible)
+* [github.com/FBorowiec/dotfiles](https://github.com/FBorowiec/dotfiles)
+* [github.com/FBorowiec/ansible](https://github.com/FBorowiec/ansible)
 
 ---
 
