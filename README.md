@@ -8,7 +8,7 @@
 
 ***Ask me about***
 
-`C++` / `Python` / `Docker` / `Bazel` / `CI/CD` with `Jenkins` and `Github Actions` / `PostgreSQL` / `Grafana` / `Vim` and `Neovim` / `Tmux` / `Web3` / `Ansible`
+`C++ Python Docker Bazel CI/CD [Jenkins Github-Actions] PostgreSQL Grafana Neovim Tmux Web3 Ansible`
 
 - 🔭 Currently working at [BMW's Autonomous Driving Campus](https://www.bmwgroup.com/en/innovation/technologies-and-mobility/autonomes-fahren/campus.html) in Germany in a [project for Self-Driving Cars](https://www.motorauthority.com/news/1112146_fca-joins-bmw-mobileye-and-intel-s-self-driving-car-alliance) between [BMW](https://www.bmwgroup.com/en.html) and [Stellantis](https://www.stellantis.com/en) (ex-Fiat Chrysler Automobiles).
 - 🌱 Learning new ways for automated trading.
@@ -46,6 +46,6 @@
 
 ***Stats***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FBorowiec&show_icons=true&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FBorowiec&show_icons=true&hide=jupyter%20notebook,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FBorowiec)
