@@ -58,6 +58,7 @@ Deprecated:
 
 * [github.com/FBorowiec/ansible](https://github.com/FBorowiec/ansible)
 * [github.com/FBorowiec/dotfiles](https://github.com/FBorowiec/dotfiles)
+* [Ergodox layout](https://configure.zsa.io/ergodox-ez/layouts/3wy7r/latest/0)
 
 ---
 
