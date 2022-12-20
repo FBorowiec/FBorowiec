@@ -4,6 +4,8 @@
 
 ---
 
+My 🌳:
+
 [linktr.ee/fboro](https://linktr.ee/fboro)
 
 ---
@@ -13,6 +15,7 @@
 * Modern `C++`
 * The `Python` programming language
 * The `Bazel` build and test system
+* The `PineScript` programming language for [Trading View](https://www.tradingview.com)
 * `Ansible` for configuration management
 * `Docker`, `docker-compose`, `Kubernetes` for containers
 * Continuous Integration and Deployment with `Jenkins` or `Github Actions`
@@ -40,6 +43,7 @@
 - [Design patterns Python](https://github.com/FBorowiec/design_patterns_python) - My Design Patterns repository with state-of-the-art examples of practical usage of Design Patterns in Python.
 - [TDD with gtest](https://github.com/FBorowiec/tdd_with_gtest) - This is the repository where I keep all the relevant information about Test Driven Development with C++ and GTest.
 - [TDD with python](https://github.com/FBorowiec/tdd_with_python) - This is the repository where I keep all the relevant information about Test Driven Development with Python.
+- [Web scraper example](https://github.com/FBorowiec/pro-industry_scraper) - a project I made to show how I would approach web scraping.
 
 Deprecated:
 
