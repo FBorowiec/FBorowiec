@@ -10,31 +10,31 @@ My 🌳:
 
 ---
 
-***Ask me about***
+**_Ask me about_**
 
-* Modern `C++`
-* The `Python` programming language
-* The `Bazel` build and test system
-* The `PineScript` programming language for [Trading View](https://www.tradingview.com)
-* `Ansible` for configuration management
-* `Docker`, `docker-compose`, `Kubernetes` for containers
-* Continuous Integration and Deployment with `Jenkins` or `Github Actions`
-* The `PostgreSQL` database system
-* `Grafana` for databases visualization with charts and graphs
-* The superior text editor `Neovim`
-* `Tmux` - terminal multiplexer
-* `Web3` - World Wide Web but with blockchain
+- Modern `C++`
+- The `Python` programming language
+- The `Bazel` build and test system
+- The `PineScript` programming language for [Trading View](https://www.tradingview.com)
+- `Ansible` for configuration management
+- `Docker`, `docker-compose`, `Kubernetes` for containers
+- Continuous Integration and Deployment with `Jenkins` or `Github Actions`
+- The `PostgreSQL` database system
+- `Grafana` for databases visualization with charts and graphs
+- The superior text editor `Neovim`
+- `Tmux` - terminal multiplexer
+- `Web3` - World Wide Web but with blockchain
 
-***Activities***
+**_Activities_**
 
-- 📈 Currently working on a project regarding automated trading.
+- 📈 Working on a project for automated trading.
 - 🔭 Experience at [BMW's Autonomous Driving Campus](https://www.bmwgroup.com/en/innovation/technologies-and-mobility/autonomes-fahren/campus.html) in Germany in a [project for Self-Driving Cars](https://www.motorauthority.com/news/1112146_fca-joins-bmw-mobileye-and-intel-s-self-driving-car-alliance) between [BMW](https://www.bmwgroup.com/en.html) and [Stellantis](https://www.stellantis.com/en) (ex-Fiat Chrysler Automobiles).
 - 🌱 Learning new ways for automated trading.
 - 📫 How to reach me: drop me a message on [LinkedIn](https://www.linkedin.com/in/franekborowiec/)
 
 ---
 
-***Portfolio***
+**_Portfolio_**
 
 - [Developer productivity](https://github.com/FBorowiec/developer_productivity) - Materials for my developer productivity course
 - [Server setup for dockerized websites](https://github.com/FBorowiec/server_setup_for_websites_using_docker) - In this repository I setup a server with a website and an access to Grafana connected to a postgresql database, all using Docker containers.
@@ -53,21 +53,21 @@ Deprecated:
 - [Scrapers](https://github.com/FBorowiec/scrapers) - Repository where I store my web scrapers.
 - [AI for trading](https://github.com/FBorowiec/ai_for_trading) - This is the repository where I store the programs and projects I've done for the Udacity AI for trading nanodegree. The repository is focusing primarily on two aspects of trading: Quantitative trading and AI algorithms in trading.
 - [PyProjects](https://github.com/FBorowiec/py_projects) - This is where I store my mini-projects written in Python.
-- [Video PyEditor](https://github.com/FBorowiec/video_pyeditor) - This is a video editing tool I use for simple operations on videos.
-- [Advanced C++](https://github.com/FBorowiec/advanced_cpp) - Contains several examples of modern C++ usage.
+- [Video PyEditor](https://github.com/FBorowiec/video_pyeditor) - This is a video editing tool I use for operations on videos.
+- [Advanced C++](https://github.com/FBorowiec/advanced_cpp) - Contains examples of modern C++ usage.
 
 ---
 
-***Dotfiles***
+**_Dotfiles_**
 
-* [github.com/FBorowiec/ansible](https://github.com/FBorowiec/ansible)
-* [github.com/FBorowiec/dotfiles](https://github.com/FBorowiec/dotfiles)
-* [Ergodox layout](https://configure.zsa.io/ergodox-ez/layouts/3wy7r/latest/0)
+- [github.com/FBorowiec/ansible](https://github.com/FBorowiec/ansible)
+- [github.com/FBorowiec/dotfiles](https://github.com/FBorowiec/dotfiles)
+- [Ergodox layout](https://configure.zsa.io/ergodox-ez/layouts/3wy7r/latest/0)
 
 ---
 
-***Stats***
+**_Stats_**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FBorowiec&show_icons=true&hide=jupyter%20notebook,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FBorowiec&show_icons=true&hide=jupyter%20notebook,shell,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FBorowiec)
